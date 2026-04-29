@@ -7,3 +7,5 @@ data/
 logs/
 outputs/
 results/
+*.csv
+*.png
