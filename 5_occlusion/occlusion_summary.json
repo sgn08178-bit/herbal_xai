@@ -1,0 +1,95 @@
+{
+  "full_accuracy": 0.9867,
+  "results": [
+    {
+      "condition": "ig_mask",
+      "mask_ratio": 0.1,
+      "accuracy": 0.3244,
+      "delta_acc": -0.6623
+    },
+    {
+      "condition": "random_mask",
+      "mask_ratio": 0.1,
+      "accuracy": 0.4009,
+      "delta_acc": -0.5858
+    },
+    {
+      "condition": "fft_mask",
+      "mask_ratio": 0.1,
+      "accuracy": 0.5822,
+      "delta_acc": -0.4045
+    },
+    {
+      "condition": "gabor_mask",
+      "mask_ratio": 0.1,
+      "accuracy": 0.7067,
+      "delta_acc": -0.28
+    },
+    {
+      "condition": "dt_mask",
+      "mask_ratio": 0.1,
+      "accuracy": 0.9689,
+      "delta_acc": -0.0178
+    },
+    {
+      "condition": "ig_mask",
+      "mask_ratio": 0.2,
+      "accuracy": 0.2356,
+      "delta_acc": -0.7511
+    },
+    {
+      "condition": "random_mask",
+      "mask_ratio": 0.2,
+      "accuracy": 0.2653,
+      "delta_acc": -0.7214
+    },
+    {
+      "condition": "fft_mask",
+      "mask_ratio": 0.2,
+      "accuracy": 0.3244,
+      "delta_acc": -0.6623
+    },
+    {
+      "condition": "gabor_mask",
+      "mask_ratio": 0.2,
+      "accuracy": 0.36,
+      "delta_acc": -0.6267
+    },
+    {
+      "condition": "dt_mask",
+      "mask_ratio": 0.2,
+      "accuracy": 0.9289,
+      "delta_acc": -0.0578
+    },
+    {
+      "condition": "ig_mask",
+      "mask_ratio": 0.3,
+      "accuracy": 0.2222,
+      "delta_acc": -0.7645
+    },
+    {
+      "condition": "random_mask",
+      "mask_ratio": 0.3,
+      "accuracy": 0.2204,
+      "delta_acc": -0.7663
+    },
+    {
+      "condition": "fft_mask",
+      "mask_ratio": 0.3,
+      "accuracy": 0.2178,
+      "delta_acc": -0.7689
+    },
+    {
+      "condition": "gabor_mask",
+      "mask_ratio": 0.3,
+      "accuracy": 0.24,
+      "delta_acc": -0.7467
+    },
+    {
+      "condition": "dt_mask",
+      "mask_ratio": 0.3,
+      "accuracy": 0.8622,
+      "delta_acc": -0.1245
+    }
+  ]
+}

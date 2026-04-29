@@ -1,0 +1,10 @@
+{
+  "ig_steps": 100,
+  "blur_sigma": 20,
+  "test_n": 225,
+  "computed_zero": 225,
+  "computed_blur": 225,
+  "failed": 0,
+  "zero_blur_corr_mean": 0.736,
+  "zero_blur_corr_std": 0.0337
+}

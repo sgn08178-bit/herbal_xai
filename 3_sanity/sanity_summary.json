@@ -1,0 +1,10 @@
+{
+  "model_rand_spearman_mean": 0.7417,
+  "model_rand_spearman_std": 0.0385,
+  "model_rand_ssim_mean": 0.7134,
+  "data_rand_spearman_mean": 0.7396,
+  "data_rand_spearman_std": 0.0398,
+  "data_rand_ssim_mean": 0.6234,
+  "n_sample": 30,
+  "passed": false
+}

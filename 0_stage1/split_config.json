@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "split": "8:2",
+  "train_n": 899,
+  "test_n": 225,
+  "total_n": 1124,
+  "classes": [
+    "ARSE_crop",
+    "ARSS_crop",
+    "PJNA_crop",
+    "PRDA_crop",
+    "PRPE_crop"
+  ],
+  "class_counts": {
+    "ARSE_crop": 205,
+    "ARSS_crop": 223,
+    "PJNA_crop": 228,
+    "PRDA_crop": 228,
+    "PRPE_crop": 240
+  }
+}
